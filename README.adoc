@@ -7,11 +7,10 @@ image:https://github.com/{repository-owner}/{repository-name}/actions/workflows/
 image:https://github.com/{repository-owner}/{repository-name}/actions/workflows/compile-examples.yml/badge.svg["Compile Examples status", link="https://github.com/{repository-owner}/{repository-name}/actions/workflows/compile-examples.yml"]
 image:https://github.com/{repository-owner}/{repository-name}/actions/workflows/spell-check.yml/badge.svg["Spell Check status", link="https://github.com/{repository-owner}/{repository-name}/actions/workflows/spell-check.yml"]
 
-This library allows the control and configuration of the BQ24195 PMIC as part of the following Arduino boards:
+This library allows the control and configuration of the BQ24195 PMIC from Texas Instruments®. It can be used with Arduino boards that have an onboard BQ24195 IC and other Arduino boards with this IC connected externally to its I2C bus. The following Arduino boards have an onboard BQ24195 IC:
 
-* The following MKR boards
+* The following MKR boards:
 ** MKR WIFI 1010 (SKU: ABX00023)
-** MKR FOX 1200 (SKU: ABX00014)
 ** MKR GSM 1400 (SKU: ABX00018)
 ** MKR NB 1500 (SKU: ABX00019)
 * Nano Motor Carrier (SKU: ABX00041)
