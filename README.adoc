@@ -11,6 +11,11 @@ This library allows the control and configuration of the BQ24195 PMIC from Texas
 
 * The following MKR boards:
 ** MKR WIFI 1010 (SKU: ABX00023)
+<<<<<<< HEAD
+=======
+** MKR FOX 1200 (SKU: ABX00014)
+** MKR GSM 1310 (SKU: MKRWAN1310WANT)
+>>>>>>> c4b9d40cfd25843d70f3915b7848fc37fb0cb74d
 ** MKR GSM 1400 (SKU: ABX00018)
 ** MKR NB 1500 (SKU: ABX00019)
 * Nano Motor Carrier (SKU: ABX00041)
